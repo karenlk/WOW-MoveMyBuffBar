@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: MoveMyBuffBar
+## Notes: Move your buff bar
+## Author: UpstairsWeb
+## Version: 1.00
+## SavedVariables: MoveMyBuffBarConfig
+
+MoveMyBuffBar2.lua
